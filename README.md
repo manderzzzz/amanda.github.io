@@ -23,8 +23,6 @@
       <h1 class="project-name">Amanda Chang</h1>
       <h2 class="project-tagline"></h2>
         <a href="https://manderzzzz.github.io/amanda_chang.github.io" class="btn">Home</a>
-        <a href="https://amandasexperience.wordpress.com/" class="btn"Blog</a>
-      
     </section>
 
     <section class="main-content">
