@@ -1,2 +1,2 @@
 # Amanda's Homepage
-Testing things out.
+[link to my website](https://manderzzzz.github.io/amanda_chang.github.io/home.html)
