@@ -1,1 +1,2 @@
-# amanda_chang
+# Amanda Chang's Homepage
+Testing out my homepage.
